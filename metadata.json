@@ -1,0 +1,7 @@
+{
+  "name": "AI Student Counselor",
+  "description": "An app for teachers to manage student counseling logs with AI-powered transcription and feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
